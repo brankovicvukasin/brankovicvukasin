@@ -5,7 +5,7 @@
 I'm a recent graduate with a Bachelor's degree in Computer Science. I specialize in creating dynamic and user-friendly web applications using React and NextJs. Passionate about learning and implementing latest web technologies. Open to new opportunities, connections, and collaborations.
 
 
-- 🔭 I’m currently working on: https://semenretention.club
+- 🔭 I’m currently working on: https://retentionclub.com
 
 - 👨‍💻 My projects are available at [https://github.com/brankovicvukasin?tab=repositories](https://github.com/brankovicvukasin?tab=repositories)
 
